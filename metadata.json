@@ -1,0 +1,6 @@
+{
+  "name": "MoodMovie",
+  "description": "A cinematic AI-powered movie recommendation engine that finds the perfect film based on your current vibe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
